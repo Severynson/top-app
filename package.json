@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "stylelint": "stylelint \"**/*.css\""
+    "stylelint": "stylelint \"**/*.css\" --fix"
   },
   "dependencies": {
     "next": "12.1.6",
